@@ -18,7 +18,7 @@ Usage for services is on-demand with a pay-as-you-go model
 
 Study for Exam
 - Learn the categories.  Lambda and EC2 are compute services.
-- Read the whitepaper.  Read the "Overview of Amazon Web Services" whitepaper, and review it again the day before your exam.
+- Read the whitepaper.  Read the ["Overview of Amazon Web Services"](https://docs.aws.amazon.com/whitepapers/latest/aws-overview/introduction.html) whitepaper, and review it again the day before your exam.
 
 ## Exploring the Advantages of Cloud Computing
 
